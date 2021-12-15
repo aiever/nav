@@ -2,11 +2,11 @@
   "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
-  "loading": "random",
+  "loading": "null",
   "showGithub": true,
-  "title": "发现导航 - 精选实用导航网站",
-  "description": "发现导航 - 精选实用导航网站",
-  "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
+  "title": "NavShow- 精选优秀导航站点",
+  "description": "NavShow- 精选优秀导航站点",
+  "keywords": "导航,资源,社区站点,实用工具,学习资源,运营",
   "theme": "Shortcut",
   "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-2021 nav3.cn, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
@@ -26,7 +26,7 @@
       "height": null
     }
   ],
-  "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
+  "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质导航站点， 助您工作、学习和生活",
   "simThemeHeight": 350,
   "simThemeAutoplay": true,
   "sideThemeImages": [
